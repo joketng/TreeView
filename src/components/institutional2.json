@@ -1,0 +1,1402 @@
+[
+    {
+        "syscode": "1.000000000000000000000000",
+        "orisyscode": "27",
+        "haschild": false
+    },
+    {
+        "syscode": "1.000000000000000000000000",
+        "virtualname": "一级部门",
+        "haschild": true,
+        "syscodesortlevel": "1",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.002000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.003000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.004000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.005000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.006000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.007000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.008000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.009000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.010000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.011000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.012000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.013000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.014000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.015000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.016000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.017000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.018000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.019000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.020000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.021000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.022000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.023000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.024000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.025000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.026000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.027000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.028000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.029000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.030000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.031000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "1.032000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "27"
+    },
+    {
+        "syscode": "2.000000000000000000000000",
+        "orisyscode": "26",
+        "haschild": false
+    },
+    {
+        "syscode": "2.000000000000000000000000",
+        "virtualname": "一级部门",
+        "haschild": true,
+        "syscodesortlevel": "1",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.001000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.002000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.003000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.004000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.005000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.006000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.007000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.008000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.009000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.010000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.011000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.012000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "2.013000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "26"
+    },
+    {
+        "syscode": "3.000000000000000000000000",
+        "orisyscode": "28",
+        "haschild": false
+    },
+    {
+        "syscode": "3.000000000000000000000000",
+        "virtualname": "一级部门",
+        "haschild": true,
+        "syscodesortlevel": "1",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.001000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.002000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.003000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.004000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.005000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.006000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.007000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.008000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.009000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.010000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.011000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "3.012000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "28"
+    },
+    {
+        "syscode": "4.000000000000000000000000",
+        "orisyscode": "29",
+        "haschild": false
+    },
+    {
+        "syscode": "4.000000000000000000000000",
+        "virtualname": "一级部门",
+        "haschild": true,
+        "syscodesortlevel": "1",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001002000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001003000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001004000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001005000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001006000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001007000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001008000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001009000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001010000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001011000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001012000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001013000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001014000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001015000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001016000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001017000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001018000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001019000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001020000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001021000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001022000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001023000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001024000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001025000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001026000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001027000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001028000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001029000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001030000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001031000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001032000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001033000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001034000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001035000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001036000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001038000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001039000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001040000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001041000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001042000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001043000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001044000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001045000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001046000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001047000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.001048000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002002000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002003000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002004000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002005000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002006000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002007000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002008000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002009000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002010000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002011000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002012000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002013000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002014000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002015000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002016000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002017000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002018000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002019000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002020000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002021000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002023000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002025000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002026000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002027000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002028000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002029000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002030000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002031000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002032000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002033000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002034000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002035000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002036000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002037000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002038000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002039000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002040000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002041000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002042000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002043000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002044000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002045000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002046000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002047000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002048000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002049000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002050000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002051000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002052000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002053000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002054000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002055000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002056000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002057000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002058000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002059000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002061000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002062000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "4.002063000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "29"
+    },
+    {
+        "syscode": "5.000000000000000000000000",
+        "orisyscode": "31",
+        "haschild": false
+    },
+    {
+        "syscode": "5.000000000000000000000000",
+        "virtualname": "一级部门",
+        "haschild": true,
+        "syscodesortlevel": "1",
+        "orisyscode": "31"
+    },
+    {
+        "syscode": "5.001000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "31"
+    },
+    {
+        "syscode": "5.002000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "31"
+    },
+    {
+        "syscode": "6.000000000000000000000000",
+        "orisyscode": "40",
+        "haschild": false
+    },
+    {
+        "syscode": "6.000000000000000000000000",
+        "virtualname": "一级部门",
+        "haschild": true,
+        "syscodesortlevel": "1",
+        "orisyscode": "40"
+    },
+    {
+        "syscode": "6.001000000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "2",
+        "orisyscode": "40"
+    },
+    {
+        "syscode": "7.000000000000000000000000",
+        "orisyscode": "30",
+        "haschild": false
+    },
+    {
+        "syscode": "7.000000000000000000000000",
+        "virtualname": "一级部门",
+        "haschild": true,
+        "syscodesortlevel": "1",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.001000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.001001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.002000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.002001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.003000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.003001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.004000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.004001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.005000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.005001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.006000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.006001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.007000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.007001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.008000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.008001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.009000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.009001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.010000000000000000000000",
+        "virtualname": "二级部门",
+        "haschild": true,
+        "syscodesortlevel": "2",
+        "orisyscode": "30"
+    },
+    {
+        "syscode": "7.010001000000000000000000",
+        "virtualname": "部门成员",
+        "haschild": false,
+        "syscodesortlevel": "3",
+        "orisyscode": "30"
+    }
+]
